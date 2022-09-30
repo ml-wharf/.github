@@ -1,4 +1,4 @@
-# MLWharf :rocket:
+# MLWharf :ferry:
 
 Dockerize your AI in 3 simple steps:
 
