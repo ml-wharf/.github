@@ -1,6 +1,6 @@
 # MLWharf
 
-<img src="./assets/ml-wharf-logo.svg" width="256" height="256" />
+<img src="/assets/ml-wharf-logo.svg" width="256" height="256" />
 
 Dockerize your AI in 3 simple steps:
 
